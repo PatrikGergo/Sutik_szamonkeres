@@ -7,12 +7,7 @@
 }
 
 
-@font-face {
-    font-family: "Schoolbell";
-    src: url("./Schoolbell-Regular.ttf") format("truetype");
-    font-weight: 400;
-    font-style: normal;
-}
+
 
 
 html,
@@ -29,8 +24,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    font-family: "Schoolbell", system-ui, -apple-system, BlinkMacSystemFont,
-      "Segoe UI", sans-serif;
+    font-family: Comic Sans MS, Comic Sans, cursive;
     color: #000000;
 }
 
